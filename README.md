@@ -1,2 +1,2 @@
 # encreq
-flutter and java rsa aes demo
+flutter端和java端实现rsa和aes结合的加密demo
